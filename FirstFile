@@ -3,7 +3,7 @@ public class Super{
   public static void main(String[] args){
     int zahl = 10                     //initialisiere zahl mit wert 10
     if(zahl==10)                      //wenn zahl = 10
-      System.out.println("Super!");   //Gib "Super!" aus
+      System.out.println("Super Awesome!");   //Gib "Super Awesome!" aus
       
   }
   
